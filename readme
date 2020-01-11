@@ -1,0 +1,4 @@
+1. be able run the project :) (ios simulator)
+2. fix bugs, ignore resetting data on refresh - it is a feature
+3. refactor and optimize the code as much as you can
+4. [Optional] improve project structure for future code updates (new screens etc)
